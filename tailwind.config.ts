@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customPinkRed: '#CD305A',
+        
+      },
+      fontFamily:{
+        my_font:[ "Cedarville Cursive", 'cursive']
       },
     },
   },
